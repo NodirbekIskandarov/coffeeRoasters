@@ -1,0 +1,11 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+.menu .link {
+    text-decoration: none;
+    color: black;
+}
+.logo_part img {
+    width: 100%;
+}

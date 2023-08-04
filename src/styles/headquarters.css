@@ -1,0 +1,23 @@
+.headquarters {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 200px;
+}
+.headquarters h2 {
+    color: #83888F;
+    font-size: 24px;
+}
+.headquarters .quarter {
+    margin-top: 72px;
+}
+.headquarters .quarter h1 {
+    margin-top: 45px;
+    margin-bottom: 24px;
+    font-size: 32px;
+    color: #333D4B;
+}
+.headquarters .quarter p {
+    color: #333D4B;
+    font-size: 16px;
+    margin: 5px;
+}

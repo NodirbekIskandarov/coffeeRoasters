@@ -1,0 +1,46 @@
+
+.collection_text p {
+    width: 100%;
+    font-size: 150px;
+    text-align: center;
+}
+.collection_shadow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.collection_text {
+    position: relative;
+}
+.collection {
+    position: absolute;
+    top: 50px;
+    left: 0;
+    right: 0;
+    z-index: -1;
+}
+.coffetypes {
+    position: relative;
+    width: 1072px;
+    margin: 0 auto;
+}
+.coffetypes .type {
+    margin-top: 180px;
+}
+.coffetypes .type p, h3 {
+    color: #333D4B;
+    text-align: center;
+}
+.coffetypes .type h3 {
+    margin-top: 71px;
+    font-size: 24px;
+}
+.coffetypes .type p {
+    margin-top: 24px;
+    font-size: 16px;
+}
+.coffetypes .type img {
+    width: 100%;
+}

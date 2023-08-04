@@ -1,0 +1,30 @@
+.header {
+    width: 100%;
+    height: 600px;
+    background-image: url('../../public/images/intro-img.jpg');
+    background-repeat: no-repeat;
+    background-position: cover;
+}
+.header .text_part {
+    width: 493px;
+    padding-top: 80px;
+    margin-left: 100px;
+    color: white;
+}
+.header .text_part h1 {
+    font-size: 72px;
+}
+.header .text_part p {
+    font-size: 16px;
+    margin-top: 32px;
+}
+.header .text_part button {
+    width: 217px;
+    height: 56px;
+    background-color: #0E8784;
+    border-radius: 6px;
+    border: none;
+    color: white;
+    font-size: 18px;
+    margin-top: 56px;
+}

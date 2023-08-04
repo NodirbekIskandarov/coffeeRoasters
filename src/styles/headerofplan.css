@@ -1,0 +1,21 @@
+.header_of_plan {
+    width: 98%;
+    height: 450px;
+    background-image: url('../../public/images/Bitmap2.png');
+    background-repeat: no-repeat;
+    background-position: cover;
+    border-radius: 10px;
+}
+.header_of_plan .text_part {
+    width: 493px;
+    padding-top: 100px;
+    margin-left: 100px;
+    color: white;
+}
+.header_of_plan .text_part h1 {
+    font-size: 72px;
+}
+.header_of_plan .text_part p {
+    font-size: 16px;
+    margin-top: 32px;
+}

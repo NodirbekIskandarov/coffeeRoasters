@@ -1,0 +1,54 @@
+.howworks .oval {
+    width: 31px;
+    height: 31px;
+    border-radius: 50%;
+    border: 2px solid #0E8784;
+}
+.howworks .line {
+    width: 400px;
+    border: 1px solid #FDD6BA;
+}
+.howworks .decoration {
+    display: flex;
+    align-items: center;
+    margin-top: 90px;
+}
+.howworks {
+    padding-top: 200px;
+    width: 90%;
+    margin: 0 auto;
+}
+.howworks h4 {
+    font-size: 24px;
+    color: #83888F;
+}
+.howworks .step_father {
+    margin-top: 82px;
+}
+.howworks .step_father .step h1 {
+    font-size: 72px;
+    color: #FDD6BA;
+    margin-top: 82px;
+}
+.howworks .step_father .step h2 {
+    margin-top: 38px;
+    color: #333D4B;
+    font-size: 32px;
+    width: 175px;
+}
+.howworks .step_father .step p {
+    font-size: 16px;
+    color: #333D4B;
+    width: 300px;
+    margin-top: 42px;
+}
+.howworks button {
+    background-color: #0E8784;
+    border-radius: 10px;
+    color: white;
+    width: 217px;
+    height: 56px;
+    font-size: 18px;
+    border: none;
+    margin-top: 64px;
+}

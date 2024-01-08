@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom'
 
 function Navbar() {
   return (
-    <div>
+    <div className='navbar'>
         <div className='row justify-content-between align-items-center my-5'>
             <div className='col-3 logo_part'>
                 <img src='images/logo.png' alt='logo'/>
